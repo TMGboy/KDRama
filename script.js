@@ -53,7 +53,7 @@ class App extends React.Component {
                   <div className="flex">
                     <h2>{movie.title}</h2>
                     <p className="star">
-                      <span>⭐️</span> 
+                      <span>⭐️⭐⭐</span> 
                       {Math.round(movie.vote_average)}
                     </p>
                     <p className="desc">
